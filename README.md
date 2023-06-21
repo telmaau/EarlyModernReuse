@@ -23,8 +23,8 @@ Identifying the most reused authors and/or publications (the most influential?)
 
 ## Data
 
-Data used in this portfolio is from [Early Modern sample](https://github.com/dhh23/early_modern_data#early_modern_data)
+Data used in this portfolio is from [Early Modern sample](https://github.com/dhh23/early_modern_data#early_modern_data). 
 
-## References
+## Report
 
-TBA
+The report can be found [here](https://github.com/telmaau/EarlyModernReuse/blob/master/report.pdf)
