@@ -1,8 +1,9 @@
 # DHH23 Portfolio
 
-This is a repository for my individual portfolio for the [DHH23](https://www.helsinki.fi/en/digital-humanities/helsinki-digital-humanities-hackathon-2023-dhh23) work. 
+This is a repository for my individual portfolio of the [Helsinki Digital Humanities Hackathon 23](https://www.helsinki.fi/en/digital-humanities/helsinki-digital-humanities-hackathon-2023-dhh23). 
 The Early Modern group explored reuse in scientific illustrations in the 18th century.
-As a continuation of the group's work "Illustrating the Enlightenment - Illuminating the Evolution of Scientific Illustration during the 18th century" (see our [poster](https://www.helsinki.fi/assets/drupal/2023-06/dhh23-earlymodern-poster.pdf), in this portfolio, I further explored the reuse of images, first evaluating the quality of our algorithm and then identifying and discussing some influential reuse cases.
+As a continuation of the group's work "Illustrating the Enlightenment - Illuminating the Evolution of Scientific Illustration during the 18th century" (see our [poster](https://www.helsinki.fi/assets/drupal/2023-06/dhh23-earlymodern-poster.pdf)), 
+in this portfolio, I further explored the reuse of images. First, I evaluated the performance of the developed reuse detection algorithm and then identified and discussed some influential reuse cases found in the data.
 
 ## Workflow
 
